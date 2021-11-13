@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Let Me Remember</string>
+    <string name="title_activity_to_do">ToDoActivity</string>
+</resources>
