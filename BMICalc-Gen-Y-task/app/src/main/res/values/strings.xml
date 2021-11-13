@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI Calc</string>
+    <string name="severely_underweight">Oops! You  are underweight 😓</string>
+    <string name="normal">Great! You are healthy!😎🎉</string>
+    <string name="overweight">Watch out! Overweight! 😣</string>
+    <string name="obese_class_i">Obese class I ! Let\'s do something 💪</string>
+    <string name="obese_class_ii">Obese class II ! Ohh god! 😷</string>
+    <string name="obese_class_iii">Watch out! Obese class III, Don\'t lose hope</string>
+</resources>
